@@ -35,7 +35,7 @@
              select *
              from carrental;
              
-    9) Celebrate!
+    9) Celebrate! 
             
            
   
