@@ -1,0 +1,198 @@
+rating,locationcity,locationstate,ownerid,ratedaily,vehiclemake,vehiclemodel,vehicletype,vehicleyear,airportcity
+4.95,Portland,OR,320877,27,Scion,xB,car,2006,Portland
+4.86,Honolulu,HI,45460,79,Jeep,Wrangler,suv,2011,Honolulu
+4.86,New Orleans,LA,1803853,58,FIAT,500,car,2016,New Orleans
+4.78,Phoenix,AZ,950349,55,Lexus,IS 250,car,2012,Phoenix
+5,Las Vegas,NV,4158797,109,Chevrolet,Corvette Stingray,car,2014,Las Vegas
+4.91,San Francisco,CA,5207578,100,Tesla,Model 3,car,2017,San Francisco
+4.9,Jersey City,NJ,67096,60,Mazda,3,car,2012,Newark
+4.91,Irving,TX,1582843,46,Chevrolet,Cruze,car,2017,Dallas-Fort Worth
+4.7,Miami,FL,637495,30,Mazda,6,car,2016,Miami
+4.99,Millbrae,CA,117750,85,BMW,Z4,car,2011,San Francisco
+4.85,Honolulu,HI,912177,65,Jeep,Wrangler,suv,2006,Honolulu
+4.97,San Ramon,CA,821919,159,Porsche,Boxster,car,2013,Oakland
+4.9,Dallas,TX,1582843,42,Hyundai,Elantra,car,2017,Dallas
+4.63,Atlanta,GA,507900,39,Nissan,Versa Note,car,2015,Atlanta
+4.78,Dallas,TX,1582843,38,Nissan,Versa,car,2017,Dallas
+4.86,Las Vegas,NV,3484421,110,Porsche,Boxster,car,2013,Las Vegas
+4.95,Las Vegas,NV,1427288,172,Porsche,911,car,2014,Las Vegas
+4.84,Aurora,CO,1723655,54,BMW,X3,suv,2008,Denver
+4.83,Los Angeles,CA,1347938,129,Chevrolet,Corvette,car,2017,Los Angeles
+4.94,San Francisco,CA,124207,89,Tesla,Model 3,car,2018,Oakland
+4.84,Phoenix,AZ,950349,46,Toyota,Camry,car,2014,Phoenix
+4.78,Phoenix,AZ,950349,41,Nissan,Sentra,car,2014,Phoenix
+4.97,Brentwood,TN,495552,52,Chevrolet,Cruze,car,2014,Nashville
+4.83,Dallas,TX,1582843,40,Toyota,Corolla,car,2017,Dallas
+4.84,Las Vegas,NV,464342,139,Chevrolet,Corvette,car,2017,Las Vegas
+4.92,Las Vegas,NV,3484421,69,Chevrolet,Camaro,car,2017,Las Vegas
+4.83,Irving,TX,1582843,45,Mitsubishi,Mirage G4,car,2017,Dallas-Fort Worth
+4.77,Seattle,WA,663789,34,Mazda,6,car,2006,Seattle
+5,Seattle,WA,1006943,59,Lexus,CT 200h,car,2014,Seattle
+4.92,Las Vegas,NV,464342,119,BMW,M4,car,2015,Las Vegas
+4.85,Honolulu,HI,595685,60,Chevrolet,Camaro,car,2018,Honolulu
+4.95,Nashville,TN,311958,35,Toyota,Camry,car,2017,Nashville
+4.78,Phoenix,AZ,950349,41,Toyota,Corolla,car,2013,Phoenix
+4.77,Seattle,WA,6359397,47,Honda,Civic,car,2012,Seattle
+4.97,San Francisco,CA,168282,69,BMW,3 Series,car,2017,Oakland
+4.87,San Diego,CA,3689861,26,Mitsubishi,Mirage,car,2017,San Diego
+4.88,Southfield,MI,1370302,99,Dodge,Challenger,car,2017,Detroit
+4.96,Las Vegas,NV,1427288,109,Porsche,Boxster,car,2013,Las Vegas
+4.85,Dallas,TX,1582843,40,Ford,Fiesta,car,2016,Dallas
+4.86,San Diego,CA,3689861,40,Toyota,Corolla,car,2014,San Diego
+5,Miami,FL,731748,89,Mercedes-Benz,SLK-Class,car,2015,West Palm Beach
+4.88,Philadelphia,PA,2541813,98,BMW,4 Series,car,2015,Philadelphia
+4.89,Dallas,TX,1582843,40,Ford,Fiesta,car,2016,Dallas
+4.97,Dallas,TX,1582843,42,Kia,Forte,car,2016,Dallas
+4.96,Jersey City,NJ,67096,94,Honda,Odyssey,minivan,2013,Newark
+4.93,San Antonio,TX,2714703,36,Dodge,Charger,car,2014,San Antonio
+4.79,Gardena,CA,3248814,155,Chevrolet,Corvette,car,2017,Ontario
+4.99,Miami,FL,731748,89,BMW,4 Series,car,2017,West Palm Beach
+4.96,Jersey City,NJ,519772,300,Porsche,911,car,2013,Newark
+4.82,Commerce City,CO,2318184,45,Toyota,RAV4,suv,2006,Denver
+4.9,Phoenix,AZ,1293045,36,Honda,Insight,car,2012,Phoenix
+4.78,Los Angeles,CA,893373,138,Tesla,Model S,car,2017,Ontario
+4.74,Phoenix,AZ,950349,41,Toyota,Corolla,car,2012,Phoenix
+4.95,San Antonio,TX,523923,39,Toyota,Camry,car,2012,San Antonio
+4.92,Austin,TX,656440,24,Toyota,Corolla,car,2006,Austin
+4.93,Commerce City,CO,2318184,45,Nissan,Xterra,suv,2008,Denver
+4.66,Houston,TX,175408,50,Acura,ILX,car,2017,Houston
+4.99,Las Vegas,NV,4158797,109,Jaguar,F-TYPE,car,2016,Las Vegas
+4.83,Seattle,WA,6359397,44,Nissan,Altima,car,2015,Seattle
+4.93,Seattle,WA,6359397,55,Toyota,RAV4,suv,2015,Seattle
+4.97,Phoenix,AZ,1135852,74,Mercedes-Benz,C-Class,car,2016,Phoenix
+4.8,Commerce City,CO,2318184,62,Subaru,Legacy,car,2008,Denver
+4.94,Alameda,CA,2192096,51,Toyota,C-HR,suv,2018,Oakland
+4.96,San Francisco,CA,6630342,119,Porsche,718 Boxster,car,2017,San Francisco
+4.91,Las Vegas,NV,3484421,88,BMW,2 Series,car,2017,Las Vegas
+4.91,Commerce City,CO,2318184,50,Nissan,Xterra,suv,2011,Denver
+4.97,Las Vegas,NV,1427288,139,Porsche,Boxster,car,2016,Las Vegas
+4.98,Portland,OR,1709806,43,Nissan,Rogue,suv,2016,Portland
+4.8,Miami,FL,637495,25,Kia,Soul,car,2014,Miami
+4.83,Phoenix,AZ,950349,42,Nissan,Sentra,car,2013,Phoenix
+4.85,Mentor,OH,1092884,50,Toyota,Camry Hybrid,car,2014,Cleveland
+4.85,Seattle,WA,6359397,45,Toyota,Prius,car,2014,Seattle
+4.9,Commerce City,CO,2318184,60,Toyota,4Runner,suv,2009,Denver
+4.71,Miami,FL,637495,40,Honda,CR-V,suv,2012,Miami
+4.72,Seattle,WA,663789,34,Honda,Civic,car,2008,Seattle
+4.97,South San Francisco,CA,1122675,198,Porsche,718 Boxster,car,2017,San Francisco
+4.84,Irvine,CA,1186913,29,Hyundai,Sonata,car,2016,Santa Ana
+4.71,Lakewood,CO,2245310,50,Toyota,FJ Cruiser,suv,2007,Denver
+4.79,Gardena,CA,3248814,239,BMW,i8,car,2015,Ontario
+4.96,Hampton,VA,2757207,124,Chevrolet,Corvette,car,2015,Newport News
+4.94,Philadelphia,PA,1806993,33,Kia,Forte,car,2010,Philadelphia
+4.81,Dallas,TX,1582843,35,Nissan,Versa,car,2017,Dallas
+4.95,Las Vegas,NV,3238496,99,Chevrolet,Corvette,car,2017,Las Vegas
+4.72,Seattle,WA,663789,44,Suzuki,Kizashi,car,2013,Seattle
+4.96,Lodi,NJ,1260284,99,Tesla,Model 3,car,2018,Newark
+4.97,San Bruno,CA,4993965,43,Honda,Accord,car,2009,San Francisco
+4.98,Honolulu,HI,729215,40,Nissan,Sentra,car,2016,Honolulu
+4.87,Linthicum Heights,MD,6064921,52,Honda,Accord,car,2015,Baltimore
+4.71,Minneapolis,MN,1300675,24,Toyota,Corolla,car,2010,Minneapolis
+4.99,Upland,CA,354032,29,Honda,Civic,car,2011,Ontario
+4.96,San Diego,CA,2999083,109,Porsche,911,car,2005,San Diego
+4.94,Burlingame,CA,487015,89,Ford,Mustang,car,2016,San Francisco
+4.79,Marina del Rey,CA,722440,63,Mercedes-Benz,SL-Class,car,2009,Los Angeles
+4.72,Metairie,LA,198464,49,Jeep,Cherokee,suv,2015,New Orleans
+4.99,Brentwood,TN,509511,52,Kia,Forte,car,2015,Nashville
+4.83,Commerce City,CO,2318184,50,Nissan,Xterra,suv,2012,Denver
+4.96,Dania Beach,FL,4881621,55,Ford,Mustang,car,2016,Fort Lauderdale
+4.86,Honolulu,HI,912177,75,Jeep,Wrangler,suv,2010,Honolulu
+4.92,Las Vegas,NV,3484421,102,BMW,X5,suv,2015,Las Vegas
+4.89,Los Angeles,CA,1246806,99,Chevrolet,Corvette,car,2016,Los Angeles
+4.92,Philadelphia,PA,2541813,97,Audi,S5,car,2014,Philadelphia
+4.99,Citrus Heights,CA,2624844,54,Subaru,Outback,suv,2013,Sacramento
+4.88,Dania Beach,FL,4881621,55,Ford,Mustang,car,2016,Fort Lauderdale
+4.57,Lakewood,CO,2245310,45,Toyota,Sienna,minivan,2006,Denver
+4.98,South Salt Lake,UT,1723833,45,Audi,A4,car,2012,Salt Lake City
+4.92,Nashville,TN,7326774,32,Chevrolet,Cruze,car,2017,Nashville
+4.82,Lakewood,CO,2245310,47,Toyota,4Runner,suv,2005,Denver
+4.92,Seattle,WA,6359397,47,Honda,CR-V,suv,2015,Seattle
+4.98,South San Francisco,CA,1122675,248,Porsche,911,car,2013,San Francisco
+4.76,Philadelphia,PA,2541813,112,Mercedes-Benz,CLA-Class,car,2014,Philadelphia
+4.88,Commerce City,CO,2318184,45,Toyota,RAV4,suv,2010,Denver
+4.82,Las Vegas,NV,3484421,38,Honda,Civic,car,2016,Las Vegas
+4.99,Jersey City,NJ,67096,70,Toyota,Camry,car,2016,Newark
+4.89,Las Vegas,NV,1970699,109,Porsche,Boxster,car,2013,Las Vegas
+4.98,Oakland,CA,2280266,83,Jeep,Wrangler,suv,2015,Oakland
+4.79,Philadelphia,PA,2541813,85,Jeep,Wrangler,suv,2017,Philadelphia
+4.87,San Diego,CA,3689861,39,FIAT,500,car,2012,San Diego
+4.9,Atlanta,GA,1426383,33,Nissan,Sentra,car,2017,Atlanta
+4.92,Forest Park,GA,1727097,52,Kia,Optima,car,2013,Atlanta
+4.68,Lakewood,CO,2245310,48,Toyota,4Runner,suv,2005,Denver
+4.97,Los Angeles,CA,376701,220,Tesla,Model 3,car,2018,Ontario
+4.93,Portland,OR,686744,50,BMW,3 Series,car,2014,Portland
+4.8,Portland,OR,2459011,70,Lexus,IS 250,car,2014,Portland
+4.88,Scottsdale,AZ,687208,52,Chevrolet,Malibu Limited,car,2016,Phoenix
+4.92,Burlingame,CA,487015,79,BMW,3 Series,car,2014,San Francisco
+4.99,Jersey City,NJ,9450147,84,Toyota,RAV4,suv,2014,Newark
+4.85,Minneapolis,MN,2000159,32,BMW,X5,suv,2008,Minneapolis
+4.93,Denver,CO,1536463,90,Toyota,4Runner,suv,2011,Denver
+4.95,Las Vegas,NV,3484421,129,Jaguar,F-TYPE,car,2016,Las Vegas
+4.96,Honolulu,HI,1140662,54,Toyota,Prius,car,2008,Honolulu
+4.88,Lone Tree,CO,558427,62,Kia,Optima,car,2017,Denver
+4.96,San Antonio,TX,651599,104,BMW,4 Series,car,2014,San Antonio
+4.93,San Diego,CA,2263885,69,Ford,Mustang,car,2016,San Diego
+4.96,Atlanta,GA,511103,155,Chevrolet,Corvette Stingray,car,2014,Atlanta
+4.88,Missouri City,TX,1468529,28,Toyota,Corolla,car,2016,Houston
+4.93,Indianapolis,IN,106644,42,Chevrolet,Silverado 1500,truck,2009,Indianapolis
+4.98,Madison,WI,1404003,29,Honda,Civic,car,2012,Madison
+4.88,Fort Myers,FL,2456231,31,Toyota,Prius,car,2007,Fort Myers
+4.89,Jersey City,NJ,875927,193,Tesla,Model 3,car,2018,Newark
+4.98,Las Vegas,NV,9142498,88,Polaris,Slingshot,car,2019,Las Vegas
+4.89,East Los Angeles,CA,3217019,35,Jeep,Patriot,suv,2016,Los Angeles
+4.82,Minneapolis,MN,1300675,27,Toyota,Corolla,car,2013,Minneapolis
+4.75,Metairie,LA,198464,38,Toyota,Yaris,car,2014,New Orleans
+5,San Diego,CA,8761848,139,BMW,i8,car,2016,San Diego
+4.82,Lakewood,CO,4057191,60,Toyota,RAV4,suv,2010,Denver
+4.95,Saint Paul,MN,2245898,39,Ford,Escape,suv,2010,Minneapolis
+4.9,Metairie,LA,198464,34,Ford,C-Max Hybrid,car,2013,New Orleans
+4.94,Seattle,WA,1836536,80,Tesla,Model 3,car,2018,Seattle
+4.98,Las Vegas,NV,499176,166,Tesla,Model X,suv,2016,Las Vegas
+4.97,Las Vegas,NV,1427288,129,Alfa Romeo,4C,car,2016,Las Vegas
+5,Portland,OR,6659719,74,Mercedes-Benz,C-Class,car,2018,Portland
+4.94,Jersey City,NJ,519772,225,Land Rover,Range Rover Velar,suv,2018,Newark
+5,Las Vegas,NV,1670971,35,Toyota,Corolla,car,2017,Las Vegas
+4.99,Shawnee,KS,1045538,30,Chevrolet,Volt,car,2012,Kansas City
+4.82,Chicago,IL,5147182,29,Toyota,RAV4,suv,2006,Chicago
+4.81,Miami,FL,637495,40,Nissan,Altima,car,2018,Miami
+4.98,Phoenix,AZ,4009047,149,Chevrolet,Corvette,car,2016,Phoenix
+4.92,San Diego,CA,2263885,79,Tesla,Model 3,car,2018,San Diego
+4.8,Lakewood,CO,2245310,52,Toyota,FJ Cruiser,suv,2008,Denver
+4.79,Houston,TX,1821886,75,BMW,3 Series,car,2008,Houston
+4.96,Schaumburg,IL,2966298,129,Tesla,Model 3,car,2018,Chicago
+4.62,Lakewood,CO,2245310,49,Toyota,Sienna,minivan,2012,Denver
+4.95,Las Vegas,NV,1970699,129,BMW,M4,car,2015,Las Vegas
+4.69,Buena Park,CA,6357487,48,BMW,3 Series,car,2015,Los Angeles
+4.63,Lakewood,CO,2245310,47,Toyota,Sienna,minivan,2007,Denver
+4.92,Savannah,GA,4609659,40,Nissan,Sentra,car,2018,Savannah
+4.94,Savannah,GA,4609659,34,Nissan,Versa,car,2018,Savannah
+4.82,Jacksonville,FL,3375565,50,Jeep,Renegade,suv,2017,Jacksonville
+4.94,Phoenix,AZ,1135852,62,BMW,3 Series,car,2013,Phoenix
+4.68,Lakewood,CO,2245310,40,Toyota,Sienna,minivan,2005,Denver
+4.82,Jersey City,NJ,2611541,99,Ford,Mustang,car,2015,Newark
+4.85,Philadelphia,PA,640066,70,Chevrolet,Malibu,car,2013,Philadelphia
+4.84,Raleigh,NC,640470,26,Buick,LaCrosse,car,2007,Raleigh/Durham
+4.98,Noblesville,IN,106644,64,Chrysler,Pacifica,minivan,2017,Indianapolis
+4.83,Los Angeles,CA,966277,59,BMW,3 Series,car,2013,Los Angeles
+4.79,Minneapolis,MN,2000159,29,Audi,A4,car,2007,Minneapolis
+4.93,Savannah,GA,641610,30,Toyota,Corolla,car,2017,Savannah
+4.71,Honolulu,HI,595685,85,Chevrolet,Camaro,car,2019,Honolulu
+4.81,Atlanta,GA,507900,51,Nissan,Altima,car,2016,Atlanta
+5,Jacksonville,FL,742089,54,Honda,Civic,car,2018,Jacksonville
+4.65,Arlington,VA,3276160,49,Audi,A4,car,2015,Washington
+4.87,Jacksonville,FL,3375565,72,Dodge,Durango,suv,2017,Jacksonville
+4.79,Minneapolis,MN,1300675,27,Toyota,Corolla,car,2011,Minneapolis
+4.84,Minneapolis,MN,1300675,27,Toyota,Corolla,car,2012,Minneapolis
+4.92,Los Angeles,CA,1300139,27,Toyota,Matrix,car,2009,Los Angeles
+4.98,Savannah,GA,4609659,49,Honda,Accord,car,2017,Savannah
+4.75,Irvine,CA,1186913,39,Honda,Civic Sedan,car,2019,Santa Ana
+5,Honolulu,HI,2800098,50,Kia,Sportage,suv,2014,Honolulu
+4.67,Lakewood,CO,2245310,40,Toyota,Sienna,minivan,2007,Denver
+4.64,Lakewood,CO,2245310,45,Toyota,4Runner,suv,2005,Denver
+4.97,Dania Beach,FL,4881621,53,Ford,Mustang,car,2016,Fort Lauderdale
+4.72,Miami,FL,637495,110,Ford,Mustang,car,2019,Miami
+4.79,Minneapolis,MN,1300675,26,Toyota,Corolla,car,2012,Minneapolis
+4.74,Sterling,VA,449378,46,Chevrolet,Volt,car,2013,Washington
+4.96,Las Vegas,NV,1670971,35,Honda,Civic,car,2017,Las Vegas
+4.98,San Francisco,CA,6630342,179,Porsche,911,car,2013,San Francisco
+4.85,Doraville,GA,53029,99,Mercedes-Benz,GLA-Class,suv,2017,Atlanta
