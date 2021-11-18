@@ -7,7 +7,7 @@
     has a detailed report of attributes on the car. Our team will provide data forecasting to find out what type of cars are selling more frequently throughout each quarter and
     utilize these trends for future car purchases for the dealership.
     
-    **How to view our data:**
+   ##**How to view our data:**
     1) Open CarRental folder in VS code
     2) Open subfolder **function** and open file **config.py**.
     3) Alter the following in VS code to meet your MySQL Connection preferences:
