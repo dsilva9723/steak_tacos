@@ -9,7 +9,9 @@
     
     **How to view our data:**
     1) Open CarRental folder in VS code
+    
     2) Open subfolder **function** and open file **config.py**.
+    
     3) Alter the following in VS code to meet your MySQL Connection preferences:
             mysql_host = "127.0.0.1"
             mysql_user = "root"
@@ -17,15 +19,21 @@
             #mysql_pwd_mac = ""
             mysql_port = 3306
             #mysql_port_mac = 3306
+            
     4) Open MySQL Workbench and run the following SQL script to create a schema for our data insert:
             create schema carrental;
+            
     5) Once carrental schema has been inserted in MySQL Workbench, return to CarRental folder in VS code.
+    
     6) In subfolder **redesign** open file **carRental_insert.py**.
+    
     7) Run **carRental_insert.py** python file.
+    
     8) Return to MySQL Workbench. Open carrental schema -> tables -> carrental. Run the following SQL cript:
              use carrental;
              select *
              from carrental;
+             
     9) Celebrate!
             
            
