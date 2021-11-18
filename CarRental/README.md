@@ -1,4 +1,4 @@
-# CarRental is the name for Steak Tacos group project for A590.
+# CarRental Project for A590
 **Project Scenario:**
     Phillip, Tyler, Vishnu, and Damian are buisness entrepeneurs and are having a grand opening for used car dealership called "Python Motors". Our mission is to provide
     quality used cars to Northwest Indiana Residents at affordable prices. We pride ourselves on our compettive prices and our variety of financing options. Our team will strive
