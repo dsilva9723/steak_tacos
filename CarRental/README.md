@@ -8,6 +8,7 @@
     utilize these trends for future car purchases for the dealership.
     
     **How to view our data:**
+    
     1) Open CarRental folder in VS code
     
     2) Open subfolder **function** and open file **config.py**.
